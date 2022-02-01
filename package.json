@@ -1,0 +1,34 @@
+{
+  "name": "axios-service",
+  "version": "1.0.0",
+  "description": "axiso封装",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zangguojun/axios-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zangguojun/axios-service/issues"
+  },
+  "homepage": "https://github.com/zangguojun/axios-service#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "dependencies": {
+    "antd": "^4.18.5",
+    "axios": "^0.25.0",
+    "react": "^17.0.2"
+  }
+}
